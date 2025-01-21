@@ -6,6 +6,6 @@ Made by [CloudyTechnologies](https://cloudytechnologies.mk/).
 
 ## Installation
 
-This plugin is not on the WordPress plugin's page, 
+This plugin is not on the WordPress plugins' page, 
 so currently the only way to use this plugin is to zip this folder and upload it to your 
 `wp-content/plugins` directory on your server.
