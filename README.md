@@ -2,7 +2,7 @@
 
 Dead simple plugin that allows admins to disable user access while preserving their content. 
 
-Made by (CloudyTechnologies)[https://cloudytechnologies.mk/].
+Made by [CloudyTechnologies](https://cloudytechnologies.mk/).
 
 ## Installation
 
